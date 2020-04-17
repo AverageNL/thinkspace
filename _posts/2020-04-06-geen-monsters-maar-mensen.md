@@ -20,7 +20,7 @@ De ochtenden in de kliniek verlopen ook vaak rustig, aangezien veel patiënten d
 
 ![De woonkamer van Forence](https://miro.medium.com/max/750/0*vzSAWJWOOLd2Ah6u.jpg "De woonkamer van Forence")
 
-<p class="bijschrift">De woonkamer van Forence</p>
+> De woonkamer van Forence
 
 ## Vrijheid
 
@@ -54,10 +54,11 @@ Uiteraard is het niet altijd rozengeur en maneschijn. Het zijn natuurlijk wel pa
 
 ![Medewerker Douwe](https://miro.medium.com/max/750/0*vzSAWJWOOLd2Ah6u.jpg "Forence-medewerker Douwe")
 
-Afgebeeld: Douwe
+> Afgebeeld: Douwe
 
 Zo is er recent een patiënt overgeplaatst naar een andere instelling. Woensdagavond werd Forence gebeld. De patiënt in kwestie was in de nieuwe kliniek compleet door het lint gegaan. Hij schreeuwde dat hij ‘iedereen gaat neersteken en heel de boel in de fik gaat steken’. Hij heeft een IQ van 56, en heeft in zijn leven veel tegenslagen meegemaakt. Als het nu tegenzit, kan hij als het ware alleen maar op die manier reageren. “Zo kennen wij hem hier,” antwoordt Anne rustig door de telefoon.
-Geen monsters
+
+## Geen monsters
 
 In onze samenleving worden tbs’ers vaak afgeschilderd als monsters die nooit meer daglicht zouden mogen zien, of als het even kan afgeschoten mogen worden. Tijdens mijn week bij Transfore heb ik gepraat, gelachen, gegeten en gedronken met verschillende tbs-patiënten. Ze kwamen op mij niet over als monsters, maar als mensen. Natuurlijk hebben ze niet voor niets een tbs-maatregel. Ze hebben allemaal delicten gepleegd. Dat kan absoluut niet goedgepraat worden en dat probeer ik ook niet te doen. Ik hoop vooral dat ik een gezonder beeld van de forensische zorg heb kunnen schetsen.
 
