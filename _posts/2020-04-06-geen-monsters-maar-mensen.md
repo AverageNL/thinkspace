@@ -20,7 +20,7 @@ De ochtenden in de kliniek verlopen ook vaak rustig, aangezien veel patiënten d
 
 ![De woonkamer van Forence](https://miro.medium.com/max/750/0*vzSAWJWOOLd2Ah6u.jpg "De woonkamer van Forence")
 
-> De woonkamer van Forence
+<p align="center">De woonkamer van Forence</p>
 
 ## Vrijheid
 
